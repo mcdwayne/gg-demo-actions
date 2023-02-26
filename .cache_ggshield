@@ -1,1 +1,1 @@
-{"last_found_secrets": [{"match": "2c2da26bd65f3acdbfdcb60c105f25a9ad60ba0f19cec2f57e087ef21cca4143", "name": "Slack Bot Token - /Users/dwaynemcdaniel/Documents/gg-example/demoggshield/python_server.py"}]}
+{"last_found_secrets": [{"name": "Slack Bot Token - python_server.py", "match": "2c2da26bd65f3acdbfdcb60c105f25a9ad60ba0f19cec2f57e087ef21cca4143"}, {"name": "Slack Bot Token - python_server.py", "match": "5134bc098e6a4531afe2f4927e6dbf231d10e2cc8b5ad14697c78571313015eb"}]}
