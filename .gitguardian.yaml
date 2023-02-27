@@ -1,0 +1,5 @@
+secret:
+  ignored-matches:
+  - match: 3bc32dcec111bcc91617fabb7d364664708daa41f81ccace6d87f85b689313ae
+    name: Slack Bot Token - /Users/dwaynemcdaniel/Documents/gg-example/demoggshield/python_server.py
+version: 2
