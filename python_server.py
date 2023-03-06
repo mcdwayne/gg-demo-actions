@@ -6,8 +6,8 @@ Usage::
 """
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import logging
-# test
-test_slack_key = "xoxb-563210206324-FGqsdMF8t18v6N7Oq4i90vs5"
+
+test_slack_key = "xoxb-563210206324-FGzqdMF8t18v6N7Oq4i90vs5"
 
 class S(BaseHTTPRequestHandler):
     def _set_response(self):
