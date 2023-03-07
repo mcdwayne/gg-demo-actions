@@ -7,6 +7,8 @@ Usage::
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import logging
 
+# In this example, we will add in a Slack Bot Token
+test_slack_key = "xoxb-563210206344-BGqsdVF8t18v6N7Oq4i90vs5"
 
 class S(BaseHTTPRequestHandler):
     def _set_response(self):
